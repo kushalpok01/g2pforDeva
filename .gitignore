@@ -7,6 +7,8 @@ nepdata/
 __pycache__/
 *.pyc
 *.pyo
+nepali_pages.txt
+nepali.txt
 hindi_pages.txt
 *.tsv
 *.pt

@@ -1,0 +1,12 @@
+.venv
+venv/
+myvenv/
+hindidata/
+nepdata/
+.env
+__pycache__/
+*.pyc
+*.pyo
+hindi_pages.txt
+*.tsv
+*.pt
